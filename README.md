@@ -4,7 +4,6 @@ I'm Tamerlan, an Android Software Development Engineer based in Almaty. I've bee
 
 - 💼 I'm currently taking the 100 hours Android development course. Passed 80%
 - 🤔 I’m looking for help with gaining serious experience in Android development.
-- 🔬 My past research focused on applying deep learning techniques to accelerate quantum materials data extraction and deploying optimized models on FPGAs.
 - 🧑‍💻 I have experience in reverse engineering, android dev, java/kotlin.
 - ⚡ Hobbies: swimming, studying, coding and reading
 
